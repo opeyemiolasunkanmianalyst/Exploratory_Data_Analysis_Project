@@ -1,11 +1,8 @@
-# Exploratory_Data_Analysis_Project
-### Introduction
-In this project, a sales data is analysed using different python packages. The process involves data importation, data cleaning, data transformation, analysis and summary.
+# Sales Data Analysis Project Report
+### Background
+Having analysed the dataset using python programming language, the following information was discovered.
 
-
-
-
-### Summary
+### Key Insights
 - The average sales is 3553 dollars while the mimimum and maximum are 482 and 14082 dollars respectively.
 - The sales was increasing from 2003 to 2004 but it drastically went down in 2005. The quarterly review shows that the last quarters of the first two years had the higest sales for each year before the crash of the following year.
 - More than 95% of the orders were shipped in the first two years but reduced to less than 75% in the following year
